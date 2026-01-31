@@ -1,5 +1,5 @@
-# NIRANJAN-NAMBIAR
-Pursuing Btech in Computer Science and Engineering and Business
-Python
-Java
-C programming
+Java file
+# Java Project
+
+Simple Java program uploaded to GitHub.
+
